@@ -5,7 +5,7 @@ import Solver
 import threading
 
 
-CELL_SIZE = 100
+CELL_SIZE = 100#
 GRID_SIZE = 3
 
 #original screenshot order:  B,W,G,Y,R,O
